@@ -2,6 +2,17 @@
 
 Analyzing CPE contests. Including the PR rank for some schools and participation rate. This project requires web crawler and basis dataframe analysis techniques.
 
-![資訊工程學系PR值分析表](https://github.com/jack09581013/CPE-Analysis/blob/master/result/table/%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BBPR%E5%80%BC%E5%88%86%E6%9E%90%E8%A1%A8.png)
+## 資訊工程學系PR值分析表
 
-![不分學系PR值分析表](https://github.com/jack09581013/CPE-Analysis/blob/master/result/table/%E4%B8%8D%E5%88%86%E5%AD%B8%E7%B3%BBPR%E5%80%BC%E5%88%86%E6%9E%90%E8%A1%A8.png)
+| 學校   | 臺大 | 清大 | 交大 | 成大 | 中央 | 中興 | 中山 | 中正 |
+| ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 樣本數 |  125 |   62 |  357 |  234 |  914 |   78 | 1968 |  753 |
+| PR值   |   51 |   54 |   83 |   68 |   83 |   94 |   89 |   88 |
+
+## 不分學系PR值分析表
+
+| 學校   | 臺大 | 清大 | 交大 | 成大 | 中央 | 中興 | 中山 | 中正 |
+| ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 樣本數 |  218 |   91 | 1059 |  355 | 1200 |  536 | 2745 |  971 |
+| PR值   |   56 |   62 |   85 |   71 |   84 |   93 |   91 |   88 |
+
